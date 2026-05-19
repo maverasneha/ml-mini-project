@@ -4,6 +4,9 @@ import pickle
 import os
 import numpy as np
 from preprocess import TextPreprocessor
+import streamlit as st
+
+
 
 st.set_page_config(page_title="Fake News Core Portal", page_icon="📰", layout="centered")
 
